@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.robert.tiktoksave",
+    "sha256_cert_fingerprints": [
+      "2E:D6:8B:9F:D0:AB:7F:41:CE:DB:E3:43:46:B8:5D:79:BC:BF:01:AC:AD:82:E1:71:C6:42:E1:A0:9E:F0:A0:6A"
+    ]
+  }
+}]
